@@ -1,10 +1,11 @@
 ---
 layout: default
-img: dog.png
+img:
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: 与生俱来，前所未有
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+任何支持 HTML5 的浏览器<br>
+都可以轻松播放用“演说.io”创作出的网页展示文稿 <br>
+它们遵循开放万维网（Open Web）与超媒体（Hypermedia）标准 <br>
+这为您的展示文稿带来了与生俱来的跨平台能力和前所未有的传播能力，甚至对搜索引擎友好

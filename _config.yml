@@ -2,16 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://huangxuan.me/yanshuo.io/
 title: 演说.io
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+email: huxpro@gmail.com
+author: 黄玄
+description: > # "创作真正跨平台的 HTML5 展示文稿，让你的分享到达世界的任何一个角落
+copyright: 'Copyright &copy; 2016 Yanshuo.io. All Rights Reserved.'
+credits: ''
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -31,4 +28,4 @@ social:
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url:

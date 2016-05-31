@@ -1,8 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: 
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 在空中，在云中
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+从编辑到播放，一切都可以在云中完成 <br>
+一切就只是从打开浏览器到输入 yanshuo.io 这么简单 <br>
+你不但可以一键导入导出播放文件（.html）或工程文件（.shuo）<br>
+我们还为您提供了“演说.io”桌面客户端，为你带来更佳体验。

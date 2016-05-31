@@ -24,6 +24,10 @@ h6 {
 .lead {
     font-size: 18px;
     font-weight: 400;
+
+    line-height: 2;
+    font-size: 16px;
+    margin-bottom: 20px;
 }
 
 .intro-header {
@@ -31,14 +35,15 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
+    background: #69130c;
     background-size: cover;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 70px;
+    padding-bottom: 0px;
 }
 
 .intro-message > h1 {
@@ -54,7 +59,7 @@ h6 {
 }
 
 .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
 
 @media(max-width:767px) {
@@ -90,7 +95,7 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: rgba(105, 19, 12, 0.12);
 }
 
 .content-section-b {
@@ -163,4 +168,66 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+
+/* Yanshuo.io */
+
+/*mobile*/
+.navbar-brand{
+  height: 60px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+  border: none;
+}
+.navbar-toggle{
+  margin-top: 13px;
+}
+.navbar-default .navbar-toggle{
+  border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background: white;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+  background: transparent;
+}
+
+/*desktop*/
+a:hover, a:focus{
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+
+.navbar{
+  background: rgba(0, 0, 0, 0.4);
+  border: none;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a{
+  color: white;
+  line-height: 30px;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav>li>a:hover{
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.btn-entry{
+  display: inline-block;
+  background: #116CD6;
+  color: white;
+  padding: 15px 50px;
+  font-size: 16px;
+  border-radius: 100px;
+  margin: 35px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+  color: #FFF;
+  background-color: #69130C;
 }
